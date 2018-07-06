@@ -17,5 +17,7 @@ elif op3 == "hematofago" and op2 == "anelideo":
 	print("sanguessuga")
 elif op3 == "onivoro" and op2 == "ave":
 	print("pomba")
+elif op3 == "onivoro" and op2 == "mamifero":
+	print("homem")
 elif op3 == "onivoro" and op2 == "anelideo":
 	print("minhoca")
